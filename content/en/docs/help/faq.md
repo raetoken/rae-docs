@@ -13,12 +13,12 @@ weight: 630
 toc: true
 ---
 
-
 ## Hyas?
 
 Doks is a [Hyas theme](https://gethyas.com/themes/) build by the creator of Hyas.
 
 ## Footer notice?
+
 Please keep it in place.
 
 ## Keyboard shortcuts for search?
